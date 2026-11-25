@@ -1,7 +1,7 @@
 # 💊 Dataceuticals Unblinded
 *Healing healthcare with data, one notebook at a time.*
 
-Hello! I am YOUR FULL NAME. This repository holds my work for the course
+Hello! I am Godswill Imolele Anthony. This repository holds my work for the course
 **Python for Health Data Science and Machine Learning** (BioMetrics & HealthData Hub).
 
 "Unblinded" is my reminder to look at health data with open eyes: report effect sizes,
